@@ -34,3 +34,4 @@ build/
 
 #Ingnore
 application-local.properties
+application-dev.properties
